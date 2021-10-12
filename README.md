@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @balakrishnavardhineni
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning full stack development with react.js and spring boot
-- 💞️ I’m looking to collaborate on full stack development
+- 👀 Interested in problem solving and challenging environments.
+- 🌱 Currently working on full stack development with react.js and spring boot
+- 💞️ Ready to collaborate with the product team
 - 📫 How to reach me - mail me on balakrishnavardhineni6@gmail.com
 
 <!---
